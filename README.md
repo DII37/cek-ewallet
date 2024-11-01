@@ -19,4 +19,5 @@ Aplikasi ini menggunakan API berikut untuk mendapatkan data:
 Gunakan informasi yang diperoleh dari API ini secara bijak dan bertanggung jawab. Jangan menggunakan informasi ini untuk tujuan yang tidak etis atau ilegal.
 
 hormat kami @oranginisiald2nd 
+
 ide sc??? https://github.com/pilarxyz/cek-rekening
